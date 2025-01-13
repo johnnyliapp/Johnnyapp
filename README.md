@@ -1,2 +1,3 @@
-# Johnnyapp
-My personal repository
+## About me😃
+
+Strong 
